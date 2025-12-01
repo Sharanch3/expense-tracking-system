@@ -1,0 +1,1532 @@
+2025-11-29 15:13:28,907 - database - INFO - Fetching expenses
+2025-11-29 15:13:28,911 - database - INFO - Successful fected all data.
+2025-11-29 15:21:47,583 - database - INFO - Fetching expenses
+2025-11-29 15:21:47,584 - database - INFO - Successful fected all data.
+2025-11-29 15:31:47,030 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-29 15:31:47,037 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-29 15:40:02,084 - database - INFO - Fetching expense for date 2025-01-01
+2025-11-29 15:40:02,085 - database - INFO - Successfully fetched expense for date 2025-01-01
+2025-11-29 16:09:21,407 - database - INFO - Successfully deleted!
+2025-11-29 16:09:21,415 - database - INFO - Fetching expense for date 2025-01-01
+2025-11-29 16:09:21,416 - database - INFO - Successfully fetched expense for date 2025-01-01
+2025-11-29 16:54:10,618 - database - ERROR - 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s AND %s GROUP BY Category ORDER BY Total DESC' at line 1
+2025-11-29 16:56:45,172 - database - INFO - Successfully fetched summary
+2025-11-29 16:57:20,926 - database - INFO - Successfully fetched summary
+2025-11-29 22:02:17,256 - database - INFO - Fetching expense for date 2024-08-15
+2025-11-29 22:02:17,266 - database - INFO - Successfully fetched expense for date 2024-08-15
+2025-11-29 22:03:02,249 - database - INFO - Fetching expense for date 2024-08-15
+2025-11-29 22:03:02,250 - database - INFO - Successfully fetched expense for date 2024-08-15
+2025-11-29 22:05:19,676 - database - INFO - Fetching expense for date 2024-08-15
+2025-11-29 22:05:19,677 - database - INFO - Successfully fetched expense for date 2024-08-15
+2025-11-29 22:05:19,683 - database - INFO - Fetching expense for date 9999-01-01
+2025-11-29 22:05:19,684 - database - INFO - Successfully fetched expense for date 9999-01-01
+2025-11-29 22:07:17,104 - database - INFO - Fetching expense for date 2024-08-15
+2025-11-29 22:07:17,105 - database - INFO - Successfully fetched expense for date 2024-08-15
+2025-11-29 22:07:17,113 - database - INFO - Fetching expense for date 9999-01-01
+2025-11-29 22:07:17,113 - database - INFO - Successfully fetched expense for date 9999-01-01
+2025-11-29 22:07:17,126 - database - INFO - Successfully fetched summary
+2025-11-29 22:12:22,698 - database - INFO - Fetching expense for date 2024-08-15
+2025-11-29 22:12:22,700 - database - INFO - Successfully fetched expense for date 2024-08-15
+2025-11-29 22:12:22,708 - database - INFO - Fetching expense for date 9999-01-01
+2025-11-29 22:12:22,709 - database - INFO - Successfully fetched expense for date 9999-01-01
+2025-11-29 22:12:22,722 - database - INFO - Successfully fetched summary
+2025-11-29 23:14:44,279 - database - INFO - Successfully fetched summary
+2025-11-29 23:18:18,315 - database - INFO - Fetching expense for date 2024-08-15
+2025-11-29 23:18:18,316 - database - INFO - Successfully fetched expense for date 2024-08-15
+2025-11-29 23:21:00,802 - database - INFO - Fetching expense for date 2024-08-14
+2025-11-29 23:21:00,803 - database - INFO - Successfully fetched expense for date 2024-08-14
+2025-11-29 23:21:19,439 - database - INFO - Fetching expense for date 2024-08-14
+2025-11-29 23:21:19,442 - database - INFO - Successfully fetched expense for date 2024-08-14
+2025-11-29 23:25:24,441 - database - INFO - Fetching expense for date 2024-08-14
+2025-11-29 23:25:24,442 - database - INFO - Successfully fetched expense for date 2024-08-14
+2025-11-29 23:27:18,131 - database - INFO - Fetching expense for date 2024-08-14
+2025-11-29 23:27:18,132 - database - INFO - Successfully fetched expense for date 2024-08-14
+2025-11-29 23:28:59,101 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-29 23:28:59,102 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-29 23:29:16,253 - database - INFO - Fetching expense for date 2024-08-14
+2025-11-29 23:29:16,253 - database - INFO - Successfully fetched expense for date 2024-08-14
+2025-11-29 23:29:21,362 - database - INFO - Fetching expense for date 2024-08-15
+2025-11-29 23:29:21,362 - database - INFO - Successfully fetched expense for date 2024-08-15
+2025-11-29 23:34:35,132 - database - INFO - Fetching expense for date 2024-08-15
+2025-11-29 23:34:35,133 - database - INFO - Successfully fetched expense for date 2024-08-15
+2025-11-29 23:34:42,602 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-29 23:34:42,603 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-29 23:36:57,503 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-29 23:36:57,504 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 14:54:10,286 - database - INFO - Fetching expense for date 2024-08-14
+2025-11-30 14:54:10,289 - database - INFO - Successfully fetched expense for date 2024-08-14
+2025-11-30 14:54:30,428 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 14:54:30,429 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 14:56:34,454 - database - INFO - Fetching expense for date 2025-08-01
+2025-11-30 14:56:34,455 - database - INFO - Successfully fetched expense for date 2025-08-01
+2025-11-30 15:24:00,654 - database - INFO - Successfully deleted!
+2025-11-30 15:24:00,673 - database - INFO - Successfully inserted the new data
+2025-11-30 15:48:06,482 - database - INFO - Fetching expense for date 2025-01-01
+2025-11-30 15:48:06,483 - database - INFO - Successfully fetched expense for date 2025-01-01
+2025-11-30 15:51:06,543 - database - INFO - Successfully deleted!
+2025-11-30 15:51:06,553 - database - INFO - Successfully inserted the new data
+2025-11-30 15:51:24,486 - database - INFO - Successfully deleted!
+2025-11-30 15:51:24,498 - database - INFO - Successfully inserted the new data
+2025-11-30 16:45:33,769 - database - INFO - Fetching expense for date 2024-08-02
+2025-11-30 16:45:33,770 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-11-30 16:45:42,824 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:45:42,825 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:48:56,195 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:48:56,196 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:49:04,690 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:49:04,691 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:50:01,772 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:50:01,772 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:50:05,262 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:50:05,263 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:50:07,296 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:50:07,297 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:50:16,737 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:50:16,738 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:50:27,889 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:50:27,889 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:51:04,953 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:51:04,954 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:51:10,635 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:51:10,636 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:51:13,963 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:51:13,964 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:51:16,400 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:51:16,401 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:51:21,910 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:51:21,911 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:51:29,453 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:51:29,453 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:51:33,449 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:51:33,450 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:51:42,292 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:51:42,293 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:51:44,291 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:51:44,291 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:51:49,138 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:51:49,139 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:52:05,876 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:52:05,877 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:52:09,049 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:52:09,050 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:52:12,294 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:52:12,295 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:52:58,001 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:52:58,002 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:53:04,434 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:53:04,435 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:53:22,265 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:53:22,266 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:53:54,451 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:53:54,452 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:54:05,662 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:54:05,662 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:54:06,950 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:54:06,951 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:54:09,152 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:54:09,153 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:54:17,774 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:54:17,775 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:54:28,999 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:54:29,000 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:54:46,262 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:54:46,263 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:54:48,210 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:54:48,211 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:54:57,282 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:54:57,283 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:55:00,933 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:55:00,934 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:55:02,078 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:55:02,079 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:55:04,172 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:55:04,173 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:55:08,357 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:55:08,357 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:55:15,703 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:55:15,704 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:55:25,659 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:55:25,660 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:55:28,751 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:55:28,752 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:55:30,178 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:55:30,179 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:55:31,360 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:55:31,361 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:55:35,766 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:55:35,767 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:55:43,400 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:55:43,401 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:55:47,009 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:55:47,010 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:55:48,061 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:55:48,062 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:57:26,204 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:57:26,205 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:57:30,009 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:57:30,010 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:57:32,910 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:57:32,911 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:58:01,681 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:58:01,682 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:58:11,466 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:58:11,466 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:58:12,680 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:58:12,680 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:58:23,833 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:58:23,834 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:58:29,268 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:58:29,269 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:58:41,411 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:58:41,412 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:58:48,483 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:58:48,484 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:58:50,952 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:58:50,953 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:58:56,887 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:58:56,888 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:59:02,313 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:59:02,314 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:59:06,109 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:59:06,110 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:59:17,526 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:59:17,527 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:59:23,543 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:59:23,544 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:59:36,890 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:59:36,891 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 16:59:48,997 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 16:59:48,998 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:00:19,767 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:00:19,768 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:00:45,361 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:00:45,362 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:00:46,343 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:00:46,344 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:00:47,716 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:00:47,717 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:00:54,710 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:00:54,710 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:00:58,267 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:00:58,268 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:01:13,619 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:01:13,619 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:01:14,898 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:01:14,899 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:01:21,612 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:01:21,613 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:03:48,665 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:03:48,666 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:03:54,313 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:03:54,313 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:03:57,990 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:03:57,991 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:04:05,729 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:04:05,730 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:04:08,723 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:04:08,724 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:04:20,754 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:04:20,755 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:04:28,345 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:04:28,346 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:04:39,625 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:04:39,626 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:04:43,903 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:04:43,904 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:04:48,721 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:04:48,722 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:05:02,737 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:05:02,738 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:05:09,014 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:05:09,015 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:05:16,128 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:05:16,128 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:05:34,374 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:05:34,375 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:05:37,412 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:05:37,413 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:05:39,986 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:05:39,987 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:05:42,838 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:05:42,839 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:09:17,939 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:09:17,940 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:09:33,057 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:09:33,058 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:09:49,758 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:09:49,759 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:09:57,968 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:09:57,968 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:10:02,043 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:10:02,044 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:10:05,459 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:10:05,460 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:10:10,513 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:10:10,514 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:10:11,787 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:10:11,788 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:10:13,892 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:10:13,893 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:10:19,281 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:10:19,282 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:10:23,592 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:10:23,593 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:10:32,107 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:10:32,107 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:10:44,771 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:10:44,772 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:13:09,571 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:13:09,572 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:13:14,561 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:13:14,562 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:13:18,538 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:13:18,539 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:16:15,674 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:16:15,675 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:16:17,507 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:16:17,508 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:16:22,161 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:16:22,161 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:21:13,920 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:21:13,921 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:22:08,767 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:22:08,768 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:22:14,421 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:22:14,422 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:22:18,414 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:22:18,415 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:22:25,196 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:22:25,197 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:22:29,724 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:22:29,725 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:22:32,498 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:22:32,499 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:22:39,179 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:22:39,180 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:22:45,228 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:22:45,229 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:22:50,489 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:22:50,490 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:22:57,489 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:22:57,489 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:23:01,516 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:23:01,517 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:23:06,284 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:23:06,284 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:23:18,453 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:23:18,454 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:23:22,685 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:23:22,686 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:23:32,991 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:23:32,992 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:23:36,031 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:23:36,032 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:24:25,339 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:24:25,340 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:24:49,868 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:24:49,869 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:24:57,861 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:24:57,862 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:25:00,173 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:25:00,173 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:25:15,477 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:25:15,478 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:25:23,856 - database - INFO - Fetching expense for date 2024-01-01
+2025-11-30 17:25:23,856 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-11-30 17:25:38,204 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:25:38,204 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:26:57,685 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:26:57,686 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:28:04,468 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:28:04,469 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:28:06,445 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:28:06,446 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:28:10,041 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:28:10,042 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:28:12,599 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:28:12,599 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:28:20,780 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:28:20,781 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:28:32,790 - database - INFO - Fetching expense for date 2024-01-01
+2025-11-30 17:28:32,791 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-11-30 17:28:44,181 - database - INFO - Fetching expense for date 2024-08-08
+2025-11-30 17:28:44,183 - database - INFO - Successfully fetched expense for date 2024-08-08
+2025-11-30 17:32:24,136 - database - INFO - Fetching expense for date 2024-08-08
+2025-11-30 17:32:24,136 - database - INFO - Successfully fetched expense for date 2024-08-08
+2025-11-30 17:32:33,288 - database - INFO - Fetching expense for date 2024-08-01
+2025-11-30 17:32:33,289 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-11-30 17:32:39,597 - database - INFO - Fetching expense for date 2024-08-02
+2025-11-30 17:32:39,598 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-11-30 17:35:23,191 - database - INFO - Fetching expense for date 2025-11-30
+2025-11-30 17:35:23,192 - database - INFO - Successfully fetched expense for date 2025-11-30
+2025-11-30 17:35:38,573 - database - INFO - Fetching expense for date 2025-01-01
+2025-11-30 17:35:38,573 - database - INFO - Successfully fetched expense for date 2025-01-01
+2025-11-30 17:36:02,470 - database - INFO - Fetching expense for date 2024-08-08
+2025-11-30 17:36:02,470 - database - INFO - Successfully fetched expense for date 2024-08-08
+2025-12-01 09:19:56,138 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:19:56,160 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:20:22,350 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:20:22,352 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:20:38,620 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:20:38,621 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:20:42,400 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:20:42,401 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:20:47,323 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:20:47,324 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:20:56,354 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:20:56,355 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:21:25,257 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:21:25,258 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:21:32,606 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:21:32,607 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:21:47,290 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:21:47,291 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:21:48,891 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:21:48,892 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:21:55,774 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:21:55,775 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:21:57,389 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:21:57,391 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:21:59,928 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:21:59,929 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:22:09,330 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:22:09,332 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:22:15,292 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:22:15,293 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:22:17,079 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:22:17,080 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:22:21,681 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:22:21,682 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:22:23,274 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:22:23,275 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:22:30,317 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:22:30,327 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:22:33,324 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:22:33,325 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:22:35,329 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:22:35,330 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:22:37,234 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:22:37,235 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:22:51,212 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 09:22:51,253 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 09:22:56,878 - database - INFO - Fetching expense for date 2024-08-08
+2025-12-01 09:22:56,879 - database - INFO - Successfully fetched expense for date 2024-08-08
+2025-12-01 09:23:00,376 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 09:23:00,377 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 09:23:42,644 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 09:23:42,645 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 09:23:51,960 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:23:51,961 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:24:08,718 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:24:08,719 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:24:10,299 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:24:10,301 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:24:11,823 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:24:11,824 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:25:04,668 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:25:04,669 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:25:16,619 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:25:16,620 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:26:51,030 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:26:51,031 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:27:03,554 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:27:03,555 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:27:41,594 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:27:41,595 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:27:46,149 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:27:46,151 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:27:57,553 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:27:57,554 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:28:02,316 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:28:02,318 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:28:04,618 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:28:04,619 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:28:44,000 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:28:44,002 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:28:49,392 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:28:49,394 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:29:02,595 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:29:02,596 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:29:05,884 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:29:05,885 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:29:13,285 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:29:13,286 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:29:14,314 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:29:14,315 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:29:17,013 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:29:17,014 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:29:20,202 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 09:29:20,203 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 09:29:26,084 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 09:29:26,085 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 09:29:28,883 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:29:28,884 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:29:41,903 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:29:41,905 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:31:02,689 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:31:02,690 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:31:07,089 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:31:07,090 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:31:08,421 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:31:08,423 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:31:11,093 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:31:11,095 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:31:23,048 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:31:23,049 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:31:28,151 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:31:28,152 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:31:35,859 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:31:35,860 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:31:39,589 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:31:39,591 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:31:42,088 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:31:42,090 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:31:43,362 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:31:43,363 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:31:52,515 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:31:52,516 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:31:59,418 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:31:59,419 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:32:09,433 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:32:09,434 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:32:10,960 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:32:10,962 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:32:56,092 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:32:56,093 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:32:57,095 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:32:57,095 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:32:59,503 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:32:59,504 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:33:03,372 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:33:03,374 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:33:08,783 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:33:08,785 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:33:16,356 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:33:16,357 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:33:24,853 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:33:24,854 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:33:30,457 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:33:30,458 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:33:33,833 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:33:33,834 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:33:35,062 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:33:35,063 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:33:55,819 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:33:55,820 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:33:57,107 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:33:57,108 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:34:02,942 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:34:02,943 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:34:27,837 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:34:27,839 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:34:31,822 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:34:31,823 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:34:37,779 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:34:37,781 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:34:40,901 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:34:40,902 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:35:12,905 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:35:12,906 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:35:35,511 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:35:35,512 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:35:46,216 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:35:46,217 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:35:54,492 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:35:54,493 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:36:09,229 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:36:09,230 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:36:13,612 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:36:13,613 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:36:49,790 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:36:49,791 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:36:53,306 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:36:53,307 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:36:57,442 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:36:57,443 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:37:18,388 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:37:18,389 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:37:30,337 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:37:30,339 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:37:35,324 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:37:35,325 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:37:39,027 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:37:39,028 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:37:40,133 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:37:40,134 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:38:09,440 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:38:09,441 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:38:15,447 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:38:15,449 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:38:17,475 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:38:17,476 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:38:26,595 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:38:26,596 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:38:36,355 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:38:36,356 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:38:39,220 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 09:38:39,222 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 09:39:03,945 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:39:03,947 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:41:03,491 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:41:03,493 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:41:19,600 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:41:19,601 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:41:24,150 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:41:24,151 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:41:46,560 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:41:46,561 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:41:58,038 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:41:58,039 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:42:07,669 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:42:07,670 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:42:10,242 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:42:10,244 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:42:19,651 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:42:19,652 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:42:25,568 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:42:25,569 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:42:26,825 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:42:26,825 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:42:28,233 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:42:28,234 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:42:31,375 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:42:31,376 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:42:34,357 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:42:34,358 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:42:35,591 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:42:35,592 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:42:43,382 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:42:43,384 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:42:50,238 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:42:50,239 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:42:52,443 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:42:52,445 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:42:58,336 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:42:58,337 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:43:10,869 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:43:10,870 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:43:18,516 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:43:18,517 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:43:22,004 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:43:22,006 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:44:00,884 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:44:00,885 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:44:23,410 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:44:23,411 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:44:38,375 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:44:38,376 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:44:43,681 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:44:43,682 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:44:45,231 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:44:45,232 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:44:53,672 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:44:53,673 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:44:57,886 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:44:57,887 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:44:59,880 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:44:59,881 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:45:03,417 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:45:03,418 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:45:05,910 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:45:05,911 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:45:09,710 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:45:09,711 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:45:14,682 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:45:14,683 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:45:37,509 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:45:37,510 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:45:38,517 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:45:38,519 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:45:41,858 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:45:41,859 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:45:43,926 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:45:43,927 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:45:50,217 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:45:50,218 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:45:53,855 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:45:53,857 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:45:59,035 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:45:59,036 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:46:15,948 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:46:15,949 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:46:23,068 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:46:23,069 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:46:24,652 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:46:24,654 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:46:25,909 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:46:25,910 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:46:27,169 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:46:27,171 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:46:30,459 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:46:30,460 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:46:37,676 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:46:37,677 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:46:40,387 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:46:40,389 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:46:42,712 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:46:42,713 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:46:50,311 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:46:50,313 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:46:59,720 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:46:59,721 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:47:25,517 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:47:25,518 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:47:32,732 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:47:32,734 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:47:47,296 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:47:47,297 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:48:15,448 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:48:15,449 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:48:20,638 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:48:20,639 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:48:36,106 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:48:36,107 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:48:39,853 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:48:39,854 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:48:47,194 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:48:47,196 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:48:51,214 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:48:51,215 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:48:53,888 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:48:53,889 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:48:57,880 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:48:57,881 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:49:06,488 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:49:06,489 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:49:33,455 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:49:33,456 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:49:36,841 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:49:36,842 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:49:43,272 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:49:43,273 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:49:56,889 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:49:56,890 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:50:14,097 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:50:14,098 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:50:27,454 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:50:27,455 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:50:29,385 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:50:29,386 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:50:39,466 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:50:39,468 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:50:45,836 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:50:45,837 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:50:47,898 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:50:47,899 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:50:48,868 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:50:48,869 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:50:51,537 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:50:51,539 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:50:54,112 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:50:54,113 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:51:04,787 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:51:04,788 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:51:06,286 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:51:06,287 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:51:19,082 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:51:19,084 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:51:21,624 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:51:21,626 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:51:23,903 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:51:23,904 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:51:25,279 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:51:25,280 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:51:28,615 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:51:28,616 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:51:34,820 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:51:34,821 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:51:38,130 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:51:38,131 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:51:40,873 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:51:40,874 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:53:08,703 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:53:08,704 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:53:29,518 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:53:29,519 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:53:46,578 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:53:46,579 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:53:51,688 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:53:51,689 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:54:05,184 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:54:05,185 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:54:07,604 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:54:07,605 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:54:09,694 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:54:09,695 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:54:15,285 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:54:15,286 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:54:26,477 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:54:26,479 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:54:28,929 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:54:28,930 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:54:39,104 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:54:39,105 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:54:42,332 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:54:42,334 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:55:03,359 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:55:03,361 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:55:06,659 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:55:06,661 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:55:09,247 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:55:09,248 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:55:15,173 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:55:15,174 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:55:17,447 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:55:17,448 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:55:20,630 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:55:20,631 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:55:27,034 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:55:27,035 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:55:30,666 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:55:30,667 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:55:32,090 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:55:32,091 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:55:37,535 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:55:37,536 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:55:59,483 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:55:59,484 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:56:03,124 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:56:03,125 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:56:04,369 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:56:04,370 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:56:08,078 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:56:08,080 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:56:10,715 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:56:10,716 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:56:20,693 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:56:20,694 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:56:30,415 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:56:30,416 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:57:29,559 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:57:29,560 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:57:40,578 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:57:40,580 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:57:41,747 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:57:41,749 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:58:02,779 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:58:02,780 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:58:07,004 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:58:07,005 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:58:16,406 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:58:16,407 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:58:17,596 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:58:17,598 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:58:25,935 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:58:25,937 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:58:29,139 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:58:29,140 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:58:43,208 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:58:43,209 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:58:49,353 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:58:49,354 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:58:53,814 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:58:53,816 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:59:01,416 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:59:01,418 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:59:05,963 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:59:05,964 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:59:07,538 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:59:07,540 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:59:11,916 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:59:11,918 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:59:14,942 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:59:14,942 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:59:18,459 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:59:18,460 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:59:24,202 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:59:24,203 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 09:59:38,650 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 09:59:38,651 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:00:01,088 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:00:01,089 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:00:12,983 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:00:12,985 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:00:37,469 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:00:37,470 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:00:45,017 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:00:45,018 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:00:47,072 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:00:47,074 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:00:59,267 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:00:59,268 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:01:29,527 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:01:29,529 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:01:34,360 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:01:34,361 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:01:38,107 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:01:38,108 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:01:45,111 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:01:45,112 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:01:49,079 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:01:49,080 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:01:50,412 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:01:50,413 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:01:53,704 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:01:53,705 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:01:55,491 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:01:55,492 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:01:58,075 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:01:58,076 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:02:02,374 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:02:02,375 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:03:40,558 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:03:40,559 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:04:18,535 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:04:18,536 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:04:36,645 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:04:36,646 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:09:18,008 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:09:18,009 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:09:21,769 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:09:21,770 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:09:31,646 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:09:31,648 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:10:21,587 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:10:21,588 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:12:30,286 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:12:30,287 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:12:33,554 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:12:33,555 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:12:38,447 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:12:38,448 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:12:44,602 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:12:44,603 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:12:47,112 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:12:47,113 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:12:53,905 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:12:53,906 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:13:03,379 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:13:03,380 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:13:33,293 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:13:33,294 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:13:35,208 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:13:35,209 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:15:26,859 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:15:26,861 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:15:51,096 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:15:51,097 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:16:03,926 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:16:03,928 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:16:05,914 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:16:05,915 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:16:09,610 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:16:09,611 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:16:31,317 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:16:31,318 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:16:40,268 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:16:40,269 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:19:37,552 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:19:37,553 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:19:38,742 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:19:38,743 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:19:47,693 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:19:47,695 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:19:48,968 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:19:48,969 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:20:44,190 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:20:44,191 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:21:01,736 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 10:21:01,738 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 10:21:07,479 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 10:21:07,480 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 10:21:10,647 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 10:21:10,648 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 10:21:50,837 - database - INFO - Fetching expense for date 2024-08-05
+2025-12-01 10:21:50,838 - database - INFO - Successfully fetched expense for date 2024-08-05
+2025-12-01 10:21:53,664 - database - INFO - Fetching expense for date 2024-08-04
+2025-12-01 10:21:53,665 - database - INFO - Successfully fetched expense for date 2024-08-04
+2025-12-01 10:21:56,052 - database - INFO - Fetching expense for date 2024-08-10
+2025-12-01 10:21:56,053 - database - INFO - Successfully fetched expense for date 2024-08-10
+2025-12-01 10:21:58,559 - database - INFO - Fetching expense for date 2024-08-09
+2025-12-01 10:21:58,560 - database - INFO - Successfully fetched expense for date 2024-08-09
+2025-12-01 10:22:08,942 - database - INFO - Fetching expense for date 2025-01-01
+2025-12-01 10:22:08,942 - database - INFO - Successfully fetched expense for date 2025-01-01
+2025-12-01 10:22:50,908 - database - INFO - Fetching expense for date 2024-08-08
+2025-12-01 10:22:50,909 - database - INFO - Successfully fetched expense for date 2024-08-08
+2025-12-01 10:22:54,159 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 10:22:54,159 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 10:23:50,823 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 10:23:50,824 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 10:23:58,738 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 10:23:58,739 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 10:24:01,195 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 10:24:01,196 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 10:25:35,559 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 10:25:35,560 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 10:25:58,725 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 10:25:58,726 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 10:26:02,180 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 10:26:02,181 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 10:26:07,155 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 10:26:07,156 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 10:26:11,470 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 10:26:11,471 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 10:26:56,708 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 10:26:56,710 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 10:26:59,712 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 10:26:59,713 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 10:27:02,440 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 10:27:02,441 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 10:27:05,235 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 10:27:05,237 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 10:27:09,797 - database - INFO - Fetching expense for date 2024-08-09
+2025-12-01 10:27:09,799 - database - INFO - Successfully fetched expense for date 2024-08-09
+2025-12-01 10:27:12,355 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:27:12,356 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:27:21,639 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:27:21,641 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:27:26,065 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:27:26,067 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:27:43,431 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:27:43,433 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:27:44,524 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:27:44,525 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:27:52,158 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:27:52,159 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:28:02,791 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:28:02,792 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:28:09,372 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:28:09,373 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:30:52,182 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:30:52,184 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:31:23,229 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:31:23,230 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:31:27,031 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:31:27,032 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:31:44,270 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:31:44,271 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:31:46,816 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:31:46,817 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:31:49,693 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:31:49,694 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:31:55,830 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:31:55,831 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:32:49,046 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:32:49,047 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:32:56,035 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:32:56,037 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:32:57,768 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:32:57,769 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:33:05,189 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:33:05,190 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:33:06,785 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:33:06,786 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:33:30,375 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:33:30,376 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:33:35,705 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 10:33:35,706 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 10:34:04,513 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 10:34:04,514 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 10:34:42,842 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 10:34:42,844 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 10:34:42,920 - database - INFO - Successfully inserted the new data
+2025-12-01 10:34:42,934 - database - INFO - Successfully inserted the new data
+2025-12-01 10:34:51,516 - database - INFO - Fetching expense for date 2025-01-04
+2025-12-01 10:34:51,517 - database - INFO - Successfully fetched expense for date 2025-01-04
+2025-12-01 10:34:54,315 - database - INFO - Fetching expense for date 2025-01-03
+2025-12-01 10:34:54,316 - database - INFO - Successfully fetched expense for date 2025-01-03
+2025-12-01 10:34:56,680 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 10:34:56,681 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 10:39:03,209 - database - INFO - Successfully deleted!
+2025-12-01 10:39:30,115 - database - INFO - Fetching expense for date 2025-01-01
+2025-12-01 10:39:30,116 - database - INFO - Successfully fetched expense for date 2025-01-01
+2025-12-01 10:40:41,040 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:40:41,042 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:40:45,256 - database - INFO - Fetching expense for date 2024-01-02
+2025-12-01 10:40:45,258 - database - INFO - Successfully fetched expense for date 2024-01-02
+2025-12-01 10:40:48,442 - database - INFO - Fetching expense for date 2024-01-03
+2025-12-01 10:40:48,443 - database - INFO - Successfully fetched expense for date 2024-01-03
+2025-12-01 10:40:52,106 - database - INFO - Fetching expense for date 2024-01-04
+2025-12-01 10:40:52,107 - database - INFO - Successfully fetched expense for date 2024-01-04
+2025-12-01 10:40:55,381 - database - INFO - Fetching expense for date 2024-01-05
+2025-12-01 10:40:55,382 - database - INFO - Successfully fetched expense for date 2024-01-05
+2025-12-01 10:41:02,920 - database - INFO - Fetching expense for date 2025-01-01
+2025-12-01 10:41:02,921 - database - INFO - Successfully fetched expense for date 2025-01-01
+2025-12-01 10:41:05,256 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 10:41:05,258 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 10:41:59,156 - database - INFO - Fetching expense for date 2025-01-01
+2025-12-01 10:41:59,158 - database - INFO - Successfully fetched expense for date 2025-01-01
+2025-12-01 10:42:02,144 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 10:42:02,146 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 10:52:52,515 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 10:52:52,517 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 10:54:19,225 - database - INFO - Successfully fetched summary
+2025-12-01 10:56:46,700 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 10:56:46,701 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 10:56:46,736 - database - INFO - Successfully inserted the new data
+2025-12-01 10:56:46,749 - database - INFO - Successfully inserted the new data
+2025-12-01 10:56:54,911 - database - INFO - Fetching expense for date 2025-01-01
+2025-12-01 10:56:54,912 - database - INFO - Successfully fetched expense for date 2025-01-01
+2025-12-01 10:56:57,252 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 10:56:57,252 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:03:40,727 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:03:40,728 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:03:45,318 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:03:45,319 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:03:50,893 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:03:50,894 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:03:52,007 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:03:52,008 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:03:57,838 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:03:57,839 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:03:59,128 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:03:59,129 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:04:00,639 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:04:00,640 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:04:12,644 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:04:12,645 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:04:15,541 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:04:15,542 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:04:19,242 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:04:19,243 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:05:08,220 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:05:08,221 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:05:19,550 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:05:19,551 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:05:21,878 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:05:21,879 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:05:23,390 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:05:23,391 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:05:27,134 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:05:27,135 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:05:29,079 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:05:29,080 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:05:32,741 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:05:32,742 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:05:35,674 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:05:35,675 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:05:39,886 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:05:39,887 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:05:41,281 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:05:41,282 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:06:21,053 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:06:21,054 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:09:19,185 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:09:19,186 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:09:24,144 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:09:24,145 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:09:27,889 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:09:27,890 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:09:29,005 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:09:29,006 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:09:35,413 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:09:35,414 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:09:36,683 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:09:36,684 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:12:00,016 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:12:00,017 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:12:28,032 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:12:28,033 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:12:59,477 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:12:59,478 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:13:04,240 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:13:04,240 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:13:08,066 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:13:08,067 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:13:11,366 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:13:11,367 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:13:17,084 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:13:17,086 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:13:44,842 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:13:44,843 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:13:49,079 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:13:49,080 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:13:56,536 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:13:56,537 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:14:11,600 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:14:11,601 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:14:21,642 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:14:21,643 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:14:32,533 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:14:32,534 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:14:35,176 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:14:35,176 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:15:04,842 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:15:04,843 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:15:09,354 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:15:09,354 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:15:12,336 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:15:12,337 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:15:20,552 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:15:20,553 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:15:24,030 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:15:24,031 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:19:16,220 - database - INFO - Successfully fetched summary
+2025-12-01 11:19:40,200 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:19:40,201 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:19:49,095 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:19:49,096 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:20:05,310 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:20:05,310 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:20:16,055 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:20:16,056 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:20:18,107 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:20:18,108 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:20:19,440 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:20:19,441 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:20:20,525 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:20:20,526 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:20:23,208 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:20:23,209 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:20:39,342 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:20:39,343 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:20:39,368 - database - INFO - Successfully fetched summary
+2025-12-01 11:21:31,294 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:21:31,295 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:22:12,338 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:22:12,339 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:22:14,071 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:22:14,072 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:22:19,734 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:22:19,734 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:22:22,838 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:22:22,839 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:22:47,367 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:22:47,367 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:29:14,776 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:29:14,777 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:29:18,998 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:29:18,999 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:29:21,768 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:29:21,769 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:29:23,014 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:29:23,015 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:29:26,997 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:29:26,998 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:29:39,790 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:29:39,791 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:29:42,051 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:29:42,052 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:29:46,719 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:29:46,720 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:29:49,358 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:29:49,359 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:29:54,871 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:29:54,872 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:30:02,789 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:30:02,790 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:30:07,632 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:30:07,632 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:30:07,658 - database - INFO - Successfully fetched summary
+2025-12-01 11:30:29,434 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:30:29,434 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:30:32,728 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:30:32,729 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:30:38,739 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:30:38,740 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:30:38,765 - database - INFO - Successfully fetched summary
+2025-12-01 11:31:22,289 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:31:22,290 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:31:29,111 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:31:29,112 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:31:29,140 - database - INFO - Successfully fetched summary
+2025-12-01 11:35:16,407 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:35:16,408 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:35:22,609 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:35:22,610 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:35:31,376 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:35:31,377 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:35:31,404 - database - INFO - Successfully fetched summary
+2025-12-01 11:36:20,773 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:36:20,773 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:36:29,709 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:36:29,710 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:36:31,587 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:36:31,589 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 11:36:31,618 - database - INFO - Successfully fetched summary
+2025-12-01 11:36:55,922 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 11:36:55,923 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:02:28,891 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:02:28,892 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:02:28,926 - database - INFO - Successfully fetched summary
+2025-12-01 12:03:25,004 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:03:25,005 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:03:55,734 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:03:55,736 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:03:57,107 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:03:57,108 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:04:33,781 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:04:33,782 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:04:35,173 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:04:35,174 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:04:40,287 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:04:40,288 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:04:43,718 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:04:43,719 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:04:43,752 - database - INFO - Successfully fetched summary
+2025-12-01 12:06:10,504 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:06:10,505 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:06:12,903 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:06:12,904 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:06:15,143 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:06:15,144 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:06:16,327 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:06:16,328 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:06:22,142 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:06:22,144 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:06:30,713 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:06:30,715 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:06:33,573 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:06:33,574 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:06:36,339 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:06:36,340 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:06:37,811 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:06:37,812 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:06:39,218 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:06:39,220 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:06:51,909 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:06:51,910 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:06:54,463 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:06:54,464 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:07:23,763 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:07:23,764 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:07:23,794 - database - INFO - Successfully fetched summary
+2025-12-01 12:08:05,087 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:08:05,088 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:08:06,541 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:08:06,542 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:08:08,047 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:08:08,048 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:08:15,321 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:08:15,323 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:08:18,257 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:08:18,258 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:08:18,287 - database - INFO - Successfully fetched summary
+2025-12-01 12:08:26,145 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:08:26,146 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:08:29,226 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:08:29,227 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:08:34,327 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:08:34,328 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:08:34,359 - database - INFO - Successfully fetched summary
+2025-12-01 12:09:22,863 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:09:22,864 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:09:26,174 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:09:26,175 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:09:30,038 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:09:30,039 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:09:30,074 - database - INFO - Successfully fetched summary
+2025-12-01 12:10:14,726 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:10:14,727 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:10:23,897 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:10:23,898 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:10:25,291 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:10:25,292 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:10:27,068 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:10:27,069 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:10:34,824 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:10:34,825 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:10:36,408 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:10:36,409 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:10:37,475 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:10:37,476 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:10:41,858 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:10:41,860 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:10:49,519 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:10:49,521 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:10:49,554 - database - INFO - Successfully fetched summary
+2025-12-01 12:11:06,210 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:11:06,212 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:11:14,341 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:11:14,342 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:11:38,548 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:11:38,549 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:11:39,994 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:11:39,996 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:11:43,820 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:11:43,821 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:11:45,231 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:11:45,233 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:11:47,117 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:11:47,118 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:11:50,945 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:11:50,946 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:11:54,147 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:11:54,148 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:11:59,804 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:11:59,806 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:12:00,944 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:12:00,945 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:12:05,835 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:12:05,837 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:12:05,866 - database - INFO - Successfully fetched summary
+2025-12-01 12:12:41,569 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:12:41,571 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:12:43,758 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:12:43,759 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:12:57,149 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:12:57,151 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:12:59,875 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:12:59,876 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:12:59,904 - database - INFO - Successfully fetched summary
+2025-12-01 12:14:10,695 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:14:10,696 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:14:17,809 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:14:17,810 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:14:26,401 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:14:26,403 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:14:27,809 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:14:27,810 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:14:41,778 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:14:41,779 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:14:55,033 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:14:55,035 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:15:07,637 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:15:07,638 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:15:36,064 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:15:36,065 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:15:42,751 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:15:42,752 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:15:47,835 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:15:47,836 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:15:47,864 - database - INFO - Successfully fetched summary
+2025-12-01 12:16:44,293 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:16:44,294 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:16:47,025 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:16:47,026 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:16:48,511 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:16:48,512 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:16:53,690 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:16:53,691 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:17:00,897 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:17:00,898 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:17:04,350 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:17:04,351 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:17:20,159 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:17:20,160 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:17:21,561 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:17:21,563 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:17:34,488 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:17:34,489 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:17:39,278 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:17:39,280 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:17:42,450 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:17:42,452 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:17:42,482 - database - INFO - Successfully fetched summary
+2025-12-01 12:17:58,610 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:17:58,611 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:18:01,590 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:18:01,591 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:18:01,624 - database - INFO - Successfully fetched summary
+2025-12-01 12:18:29,928 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:18:29,929 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:18:33,963 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:18:33,964 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:18:33,999 - database - INFO - Successfully fetched summary
+2025-12-01 12:18:43,232 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:18:43,233 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:18:44,991 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:18:44,992 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:18:46,379 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:18:46,381 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:18:50,009 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:18:50,010 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:18:52,522 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:18:52,523 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:18:54,931 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:18:54,932 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:18:54,963 - database - INFO - Successfully fetched summary
+2025-12-01 12:19:08,608 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:19:08,609 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:19:11,071 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:19:11,072 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:19:13,232 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:19:13,233 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:19:13,264 - database - INFO - Successfully fetched summary
+2025-12-01 12:19:23,907 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:19:23,909 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:19:27,265 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:19:27,267 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:19:27,301 - database - INFO - Successfully fetched summary
+2025-12-01 12:19:43,406 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:19:43,408 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:19:48,095 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:19:48,096 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:19:56,799 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:19:56,801 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:20:00,641 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:20:00,642 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:20:00,676 - database - INFO - Successfully fetched summary
+2025-12-01 12:20:12,650 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:20:12,651 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:20:32,943 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:20:32,944 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:20:37,552 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:20:37,553 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:20:39,210 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:20:39,211 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:20:42,326 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:20:42,327 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:20:44,925 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:20:44,927 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:20:51,911 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:20:51,912 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:20:54,678 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:20:54,679 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:20:58,242 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:20:58,244 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:20:58,274 - database - INFO - Successfully fetched summary
+2025-12-01 12:21:14,657 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:21:14,658 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:21:19,017 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:21:19,018 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:21:19,049 - database - INFO - Successfully fetched summary
+2025-12-01 12:21:34,656 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:21:34,656 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:21:37,693 - database - INFO - Fetching expense for date 2025-01-02
+2025-12-01 12:21:37,694 - database - INFO - Successfully fetched expense for date 2025-01-02
+2025-12-01 12:21:37,724 - database - INFO - Successfully fetched summary
+2025-12-01 12:23:21,998 - database - INFO - Fetching expense for date 2024-08-06
+2025-12-01 12:23:21,999 - database - INFO - Successfully fetched expense for date 2024-08-06
+2025-12-01 12:23:28,585 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 12:23:28,586 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 12:23:29,495 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 12:23:29,497 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 12:23:29,583 - database - INFO - Successfully inserted the new data
+2025-12-01 12:23:29,595 - database - INFO - Successfully inserted the new data
+2025-12-01 12:23:29,606 - database - INFO - Successfully inserted the new data
+2025-12-01 12:23:29,618 - database - INFO - Successfully inserted the new data
+2025-12-01 12:23:35,623 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 12:23:35,624 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 12:23:39,258 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 12:23:39,259 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 12:23:43,113 - database - INFO - Fetching expense for date 2024-08-04
+2025-12-01 12:23:43,115 - database - INFO - Successfully fetched expense for date 2024-08-04
+2025-12-01 12:23:46,081 - database - INFO - Fetching expense for date 2024-08-07
+2025-12-01 12:23:46,082 - database - INFO - Successfully fetched expense for date 2024-08-07
+2025-12-01 12:23:49,410 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 12:23:49,412 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 12:23:51,849 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 12:23:51,850 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 12:23:54,819 - database - INFO - Fetching expense for date 2024-08-03
+2025-12-01 12:23:54,820 - database - INFO - Successfully fetched expense for date 2024-08-03
+2025-12-01 12:23:58,322 - database - INFO - Fetching expense for date 2024-08-04
+2025-12-01 12:23:58,323 - database - INFO - Successfully fetched expense for date 2024-08-04
+2025-12-01 12:25:20,612 - database - INFO - Fetching expense for date 2024-08-04
+2025-12-01 12:25:20,614 - database - INFO - Successfully fetched expense for date 2024-08-04
+2025-12-01 12:25:20,646 - database - INFO - Successfully fetched summary
+2025-12-01 12:28:35,219 - database - INFO - Fetching expense for date 2024-08-04
+2025-12-01 12:28:35,220 - database - INFO - Successfully fetched expense for date 2024-08-04
+2025-12-01 12:31:04,789 - database - INFO - Fetching expense for date 2024-08-04
+2025-12-01 12:31:04,790 - database - INFO - Successfully fetched expense for date 2024-08-04
+2025-12-01 12:31:07,428 - database - INFO - Fetching expense for date 2024-08-04
+2025-12-01 12:31:07,430 - database - INFO - Successfully fetched expense for date 2024-08-04
+2025-12-01 12:31:13,960 - database - INFO - Fetching expense for date 2024-08-04
+2025-12-01 12:31:13,962 - database - INFO - Successfully fetched expense for date 2024-08-04
+2025-12-01 12:32:59,589 - database - INFO - Fetching expense for date 2024-08-04
+2025-12-01 12:32:59,591 - database - INFO - Successfully fetched expense for date 2024-08-04
+2025-12-01 12:33:20,654 - database - INFO - Fetching expense for date 2024-08-04
+2025-12-01 12:33:20,655 - database - INFO - Successfully fetched expense for date 2024-08-04
+2025-12-01 12:33:20,684 - database - INFO - Successfully fetched summary
+2025-12-01 12:33:26,848 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 12:33:26,849 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 12:33:32,690 - database - INFO - Fetching expense for date 2024-01-01
+2025-12-01 12:33:32,691 - database - INFO - Successfully fetched expense for date 2024-01-01
+2025-12-01 12:33:32,722 - database - INFO - Successfully fetched summary
+2025-12-01 12:33:47,275 - database - INFO - Fetching expense for date 2024-08-01
+2025-12-01 12:33:47,276 - database - INFO - Successfully fetched expense for date 2024-08-01
+2025-12-01 12:33:54,395 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 12:33:54,396 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 12:34:03,385 - database - INFO - Fetching expense for date 2024-08-02
+2025-12-01 12:34:03,386 - database - INFO - Successfully fetched expense for date 2024-08-02
+2025-12-01 12:34:03,418 - database - INFO - Successfully fetched summary

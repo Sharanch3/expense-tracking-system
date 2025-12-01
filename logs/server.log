@@ -1,0 +1,1498 @@
+2025-11-30 15:48:06,463 - server - INFO - Fetching expenses for date: 2025-01-01
+2025-11-30 15:48:06,483 - server - INFO - Successfully fetched 1 expense(s) for date: 2025-01-01
+2025-11-30 15:51:06,521 - server - INFO - Updating expenses for date: 2025-01-01
+2025-11-30 15:51:06,521 - server - INFO - Deleting existing expenses for date: 2025-01-01
+2025-11-30 15:51:06,554 - server - INFO - Successfully updated 1 expense(s) for date: 2025-01-01
+2025-11-30 15:51:24,473 - server - INFO - Updating expenses for date: 2025-01-01
+2025-11-30 15:51:24,474 - server - INFO - Deleting existing expenses for date: 2025-01-01
+2025-11-30 15:51:24,498 - server - INFO - Successfully updated 1 expense(s) for date: 2025-01-01
+2025-11-30 16:45:33,750 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-11-30 16:45:33,770 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-11-30 16:45:42,816 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:45:42,825 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:48:56,188 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:48:56,196 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:49:04,683 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:49:04,692 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:50:01,765 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:50:01,772 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:50:05,255 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:50:05,263 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:50:07,289 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:50:07,297 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:50:16,731 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:50:16,738 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:50:27,881 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:50:27,889 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:51:04,947 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:51:04,955 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:51:10,630 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:51:10,636 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:51:13,955 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:51:13,964 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:51:16,393 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:51:16,401 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:51:21,903 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:51:21,911 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:51:29,447 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:51:29,454 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:51:33,443 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:51:33,450 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:51:42,284 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:51:42,293 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:51:44,284 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:51:44,291 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:51:49,130 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:51:49,139 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:52:05,868 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:52:05,877 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:52:09,042 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:52:09,050 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:52:12,286 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:52:12,295 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:52:57,994 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:52:58,002 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:53:04,426 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:53:04,435 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:53:22,257 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:53:22,266 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:53:54,444 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:53:54,452 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:54:05,655 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:54:05,662 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:54:06,943 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:54:06,951 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:54:09,145 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:54:09,153 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:54:17,768 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:54:17,775 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:54:28,992 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:54:29,000 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:54:46,254 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:54:46,263 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:54:48,204 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:54:48,211 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:54:57,274 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:54:57,283 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:55:00,925 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:55:00,934 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:55:02,072 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:55:02,079 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:55:04,165 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:55:04,173 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:55:08,348 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:55:08,358 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:55:15,697 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:55:15,704 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:55:25,652 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:55:25,660 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:55:28,744 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:55:28,752 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:55:30,171 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:55:30,179 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:55:31,352 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:55:31,361 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:55:35,760 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:55:35,767 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:55:43,393 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:55:43,401 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:55:47,001 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:55:47,010 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:55:48,054 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:55:48,062 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:57:26,196 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:57:26,205 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:57:30,003 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:57:30,010 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:57:32,904 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:57:32,911 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:58:01,674 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:58:01,682 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:58:11,458 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:58:11,467 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:58:12,672 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:58:12,681 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:58:23,825 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:58:23,834 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:58:29,261 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:58:29,269 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:58:41,404 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:58:41,412 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:58:48,476 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:58:48,484 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:58:50,945 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:58:50,953 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:58:56,880 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:58:56,888 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:59:02,307 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:59:02,314 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:59:06,102 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:59:06,110 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:59:17,519 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:59:17,527 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:59:23,536 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:59:23,544 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:59:36,884 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:59:36,891 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 16:59:48,990 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 16:59:48,998 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:00:19,760 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:00:19,768 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:00:45,355 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:00:45,362 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:00:46,335 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:00:46,344 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:00:47,709 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:00:47,717 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:00:54,703 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:00:54,710 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:00:58,259 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:00:58,268 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:01:13,612 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:01:13,620 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:01:14,891 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:01:14,899 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:01:21,605 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:01:21,613 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:03:48,658 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:03:48,667 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:03:54,307 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:03:54,313 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:03:57,983 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:03:57,991 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:04:05,722 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:04:05,730 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:04:08,717 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:04:08,724 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:04:20,746 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:04:20,755 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:04:28,338 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:04:28,346 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:04:39,619 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:04:39,627 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:04:43,896 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:04:43,904 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:04:48,716 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:04:48,722 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:05:02,731 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:05:02,738 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:05:09,007 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:05:09,015 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:05:16,119 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:05:16,128 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:05:34,367 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:05:34,375 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:05:37,405 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:05:37,413 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:05:39,979 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:05:39,987 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:05:42,830 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:05:42,839 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:09:17,931 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:09:17,940 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:09:33,050 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:09:33,058 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:09:49,751 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:09:49,759 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:09:57,960 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:09:57,968 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:10:02,037 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:10:02,044 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:10:05,451 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:10:05,460 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:10:10,506 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:10:10,514 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:10:11,779 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:10:11,788 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:10:13,885 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:10:13,893 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:10:19,274 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:10:19,282 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:10:23,586 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:10:23,593 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:10:32,101 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:10:32,107 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:10:44,764 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:10:44,772 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:13:09,564 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:13:09,572 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:13:14,555 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:13:14,562 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:13:18,531 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:13:18,539 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:16:15,667 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:16:15,675 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:16:17,501 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:16:17,508 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:16:22,154 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:16:22,161 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:21:13,913 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:21:13,921 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:22:08,759 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:22:08,768 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:22:14,414 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:22:14,422 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:22:18,407 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:22:18,415 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:22:25,189 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:22:25,197 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:22:29,718 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:22:29,725 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:22:32,491 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:22:32,499 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:22:39,172 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:22:39,180 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:22:45,222 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:22:45,229 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:22:50,481 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:22:50,490 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:22:57,482 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:22:57,489 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:23:01,510 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:23:01,517 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:23:06,277 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:23:06,284 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:23:18,446 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:23:18,454 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:23:22,679 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:23:22,686 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:23:32,985 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:23:32,992 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:23:36,024 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:23:36,032 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:24:25,332 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:24:25,340 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:24:49,860 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:24:49,869 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:24:57,854 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:24:57,862 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:25:00,167 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:25:00,174 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:25:15,471 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:25:15,478 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:25:23,848 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-11-30 17:25:23,857 - server - WARNING - No expenses found for date: 2024-01-01
+2025-11-30 17:25:38,197 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:25:38,205 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:26:57,678 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:26:57,686 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:28:04,461 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:28:04,469 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:28:06,437 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:28:06,446 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:28:10,035 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:28:10,042 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:28:12,591 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:28:12,600 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:28:20,774 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:28:20,781 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:28:32,782 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-11-30 17:28:32,791 - server - WARNING - No expenses found for date: 2024-01-01
+2025-11-30 17:28:44,173 - server - INFO - Fetching expenses for date: 2024-08-08
+2025-11-30 17:28:44,183 - server - WARNING - No expenses found for date: 2024-08-08
+2025-11-30 17:32:24,128 - server - INFO - Fetching expenses for date: 2024-08-08
+2025-11-30 17:32:24,137 - server - WARNING - No expenses found for date: 2024-08-08
+2025-11-30 17:32:33,280 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-11-30 17:32:33,289 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-11-30 17:32:39,590 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-11-30 17:32:39,598 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-11-30 17:35:23,185 - server - INFO - Fetching expenses for date: 2025-11-30
+2025-11-30 17:35:23,192 - server - WARNING - No expenses found for date: 2025-11-30
+2025-11-30 17:35:38,564 - server - INFO - Fetching expenses for date: 2025-01-01
+2025-11-30 17:35:38,574 - server - INFO - Successfully fetched 1 expense(s) for date: 2025-01-01
+2025-11-30 17:36:02,460 - server - INFO - Fetching expenses for date: 2024-08-08
+2025-11-30 17:36:02,471 - server - WARNING - No expenses found for date: 2024-08-08
+2025-12-01 09:19:56,040 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:19:56,160 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:20:22,338 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:20:22,352 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:20:38,610 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:20:38,621 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:20:42,391 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:20:42,401 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:20:47,314 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:20:47,324 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:20:56,346 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:20:56,355 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:21:25,249 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:21:25,259 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:21:32,598 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:21:32,607 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:21:47,281 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:21:47,292 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:21:48,883 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:21:48,892 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:21:55,766 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:21:55,775 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:21:57,382 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:21:57,391 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:21:59,919 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:21:59,929 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:22:09,322 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:22:09,332 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:22:15,284 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:22:15,293 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:22:17,070 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:22:17,080 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:22:21,672 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:22:21,682 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:22:23,266 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:22:23,275 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:22:30,309 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:22:30,327 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:22:33,315 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:22:33,326 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:22:35,321 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:22:35,330 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:22:37,225 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:22:37,235 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:22:51,203 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 09:22:51,253 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-12-01 09:22:56,871 - server - INFO - Fetching expenses for date: 2024-08-08
+2025-12-01 09:22:56,879 - server - WARNING - No expenses found for date: 2024-08-08
+2025-12-01 09:23:00,367 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 09:23:00,377 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-12-01 09:23:42,636 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 09:23:42,645 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-12-01 09:23:51,953 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:23:51,961 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:24:08,711 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:24:08,719 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:24:10,291 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:24:10,301 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:24:11,816 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:24:11,824 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:25:04,660 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:25:04,669 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:25:16,610 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:25:16,620 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:26:51,021 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:26:51,032 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:27:03,543 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:27:03,555 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:27:41,584 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:27:41,595 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:27:46,140 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:27:46,151 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:27:57,545 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:27:57,554 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:28:02,308 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:28:02,318 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:28:04,608 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:28:04,619 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:28:43,993 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:28:44,002 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:28:49,383 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:28:49,394 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:29:02,586 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:29:02,596 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:29:05,874 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:29:05,885 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:29:13,275 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:29:13,286 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:29:14,306 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:29:14,315 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:29:17,005 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:29:17,014 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:29:20,194 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 09:29:20,203 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 09:29:26,076 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 09:29:26,085 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-12-01 09:29:28,875 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:29:28,884 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:29:41,895 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:29:41,905 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:31:02,680 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:31:02,690 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:31:07,082 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:31:07,091 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:31:08,413 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:31:08,423 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:31:11,084 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:31:11,095 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:31:23,039 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:31:23,049 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:31:28,141 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:31:28,152 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:31:35,851 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:31:35,860 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:31:39,581 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:31:39,591 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:31:42,078 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:31:42,090 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:31:43,354 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:31:43,363 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:31:52,506 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:31:52,516 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:31:59,411 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:31:59,419 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:32:09,424 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:32:09,434 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:32:10,951 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:32:10,962 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:32:56,084 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:32:56,093 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:32:57,086 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:32:57,096 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:32:59,495 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:32:59,504 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:33:03,364 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:33:03,374 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:33:08,775 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:33:08,785 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:33:16,348 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:33:16,357 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:33:24,846 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:33:24,854 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:33:30,449 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:33:30,458 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:33:33,825 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:33:33,834 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:33:35,053 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:33:35,063 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:33:55,811 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:33:55,820 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:33:57,099 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:33:57,108 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:34:02,934 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:34:02,944 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:34:27,829 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:34:27,839 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:34:31,814 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:34:31,824 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:34:37,770 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:34:37,781 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:34:40,893 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:34:40,902 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:35:12,896 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:35:12,906 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:35:35,503 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:35:35,512 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:35:46,208 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:35:46,217 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:35:54,484 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:35:54,493 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:36:09,219 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:36:09,230 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:36:13,604 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:36:13,613 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:36:49,783 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:36:49,792 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:36:53,298 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:36:53,307 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:36:57,434 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:36:57,443 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:37:18,380 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:37:18,389 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:37:30,328 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:37:30,339 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:37:35,316 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:37:35,326 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:37:39,020 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:37:39,029 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:37:40,125 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:37:40,134 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:38:09,432 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:38:09,441 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:38:15,439 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:38:15,449 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:38:17,467 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:38:17,476 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:38:26,587 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:38:26,596 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:38:36,346 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:38:36,356 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:38:39,211 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 09:38:39,222 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 09:39:03,935 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:39:03,947 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:41:03,481 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:41:03,493 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:41:19,592 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:41:19,601 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:41:24,142 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:41:24,151 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:41:46,550 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:41:46,561 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:41:58,027 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:41:58,039 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:42:07,659 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:42:07,670 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:42:10,235 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:42:10,244 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:42:19,642 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:42:19,652 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:42:25,559 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:42:25,569 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:42:26,817 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:42:26,825 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:42:28,225 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:42:28,234 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:42:31,365 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:42:31,376 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:42:34,349 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:42:34,358 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:42:35,583 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:42:35,592 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:42:43,374 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:42:43,384 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:42:50,229 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:42:50,239 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:42:52,435 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:42:52,445 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:42:58,328 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:42:58,337 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:43:10,861 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:43:10,870 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:43:18,508 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:43:18,517 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:43:21,996 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:43:22,006 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:44:00,876 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:44:00,885 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:44:23,402 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:44:23,411 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:44:38,367 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:44:38,376 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:44:43,672 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:44:43,683 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:44:45,223 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:44:45,233 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:44:53,662 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:44:53,673 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:44:57,877 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:44:57,888 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:44:59,872 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:44:59,881 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:45:03,409 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:45:03,418 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:45:05,901 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:45:05,911 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:45:09,701 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:45:09,711 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:45:14,674 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:45:14,683 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:45:37,501 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:45:37,510 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:45:38,508 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:45:38,519 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:45:41,850 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:45:41,860 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:45:43,917 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:45:43,927 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:45:50,209 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:45:50,218 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:45:53,846 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:45:53,857 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:45:59,027 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:45:59,036 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:46:15,940 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:46:15,949 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:46:23,060 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:46:23,069 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:46:24,644 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:46:24,654 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:46:25,900 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:46:25,911 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:46:27,161 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:46:27,171 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:46:30,451 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:46:30,460 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:46:37,668 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:46:37,677 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:46:40,378 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:46:40,389 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:46:42,705 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:46:42,713 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:46:50,302 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:46:50,313 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:46:59,711 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:46:59,721 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:47:25,509 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:47:25,519 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:47:32,725 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:47:32,734 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:47:47,288 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:47:47,297 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:48:15,440 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:48:15,449 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:48:20,628 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:48:20,639 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:48:36,098 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:48:36,107 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:48:39,846 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:48:39,854 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:48:47,186 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:48:47,196 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:48:51,205 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:48:51,215 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:48:53,880 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:48:53,889 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:48:57,871 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:48:57,881 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:49:06,479 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:49:06,489 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:49:33,446 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:49:33,456 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:49:36,832 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:49:36,842 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:49:43,265 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:49:43,273 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:49:56,881 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:49:56,890 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:50:14,090 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:50:14,098 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:50:27,445 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:50:27,455 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:50:29,376 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:50:29,386 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:50:39,458 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:50:39,468 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:50:45,829 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:50:45,837 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:50:47,889 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:50:47,899 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:50:48,859 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:50:48,869 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:50:51,530 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:50:51,539 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:50:54,103 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:50:54,113 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:51:04,777 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:51:04,788 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:51:06,278 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:51:06,288 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:51:19,074 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:51:19,084 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:51:21,616 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:51:21,626 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:51:23,894 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:51:23,905 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:51:25,271 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:51:25,280 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:51:28,606 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:51:28,616 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:51:34,812 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:51:34,821 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:51:38,120 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:51:38,131 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:51:40,864 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:51:40,874 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:53:08,695 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:53:08,704 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:53:29,510 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:53:29,519 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:53:46,570 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:53:46,579 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:53:51,679 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:53:51,689 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:54:05,175 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:54:05,186 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:54:07,595 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:54:07,605 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:54:09,687 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:54:09,695 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:54:15,277 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:54:15,286 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:54:26,468 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:54:26,479 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:54:28,921 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:54:28,931 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:54:39,097 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:54:39,105 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:54:42,324 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:54:42,334 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:55:03,351 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:55:03,361 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:55:06,650 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:55:06,661 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:55:09,238 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:55:09,248 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:55:15,164 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:55:15,175 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:55:17,439 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:55:17,448 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:55:20,621 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:55:20,632 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:55:27,026 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:55:27,035 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:55:30,659 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:55:30,667 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:55:32,082 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:55:32,091 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:55:37,526 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:55:37,536 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:55:59,475 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:55:59,484 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:56:03,116 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:56:03,125 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:56:04,362 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:56:04,370 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:56:08,070 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:56:08,080 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:56:10,707 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:56:10,716 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:56:20,685 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:56:20,694 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:56:30,407 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:56:30,416 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:57:29,551 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:57:29,560 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:57:40,569 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:57:40,580 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:57:41,739 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:57:41,749 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:58:02,770 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:58:02,780 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:58:06,995 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:58:07,005 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:58:16,398 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:58:16,407 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:58:17,589 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:58:17,598 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:58:25,927 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:58:25,937 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:58:29,130 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:58:29,140 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:58:43,199 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:58:43,209 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:58:49,344 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:58:49,355 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:58:53,806 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:58:53,816 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:59:01,407 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:59:01,418 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:59:05,955 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:59:05,964 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:59:07,530 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:59:07,540 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:59:11,908 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:59:11,918 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:59:14,932 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:59:14,943 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:59:18,450 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:59:18,461 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:59:24,193 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:59:24,203 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 09:59:38,643 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 09:59:38,651 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:00:01,079 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:00:01,089 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:00:12,974 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:00:12,985 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:00:37,462 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:00:37,471 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:00:45,009 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:00:45,018 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:00:47,065 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:00:47,074 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:00:59,259 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:00:59,268 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:01:29,517 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:01:29,529 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:01:34,350 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:01:34,361 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:01:38,098 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:01:38,108 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:01:45,104 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:01:45,112 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:01:49,071 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:01:49,081 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:01:50,404 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:01:50,413 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:01:53,695 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:01:53,705 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:01:55,482 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:01:55,492 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:01:58,067 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:01:58,076 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:02:02,366 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:02:02,375 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:03:40,548 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:03:40,559 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:04:18,527 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:04:18,536 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:04:36,636 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:04:36,646 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:09:18,000 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:09:18,009 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:09:21,761 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:09:21,770 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:09:31,638 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:09:31,648 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:10:21,578 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:10:21,588 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:12:30,278 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:12:30,287 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:12:33,546 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:12:33,556 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:12:38,438 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:12:38,448 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:12:44,595 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:12:44,603 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:12:47,105 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:12:47,113 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:12:53,897 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:12:53,906 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:13:03,371 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:13:03,380 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:13:33,285 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:13:33,294 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:13:35,201 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:13:35,209 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:15:26,850 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:15:26,861 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:15:51,089 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:15:51,098 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:16:03,918 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:16:03,928 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:16:05,906 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:16:05,915 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:16:09,602 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:16:09,611 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:16:31,309 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:16:31,318 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:16:40,261 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:16:40,269 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:19:37,544 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:19:37,554 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:19:38,733 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:19:38,743 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:19:47,685 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:19:47,695 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:19:48,958 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:19:48,970 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:20:44,182 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:20:44,191 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:21:01,725 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 10:21:01,738 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-12-01 10:21:07,472 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 10:21:07,480 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 10:21:10,637 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 10:21:10,648 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 10:21:50,828 - server - INFO - Fetching expenses for date: 2024-08-05
+2025-12-01 10:21:50,839 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-05
+2025-12-01 10:21:53,656 - server - INFO - Fetching expenses for date: 2024-08-04
+2025-12-01 10:21:53,665 - server - INFO - Successfully fetched 3 expense(s) for date: 2024-08-04
+2025-12-01 10:21:56,044 - server - INFO - Fetching expenses for date: 2024-08-10
+2025-12-01 10:21:56,053 - server - WARNING - No expenses found for date: 2024-08-10
+2025-12-01 10:21:58,552 - server - INFO - Fetching expenses for date: 2024-08-09
+2025-12-01 10:21:58,560 - server - WARNING - No expenses found for date: 2024-08-09
+2025-12-01 10:22:08,933 - server - INFO - Fetching expenses for date: 2025-01-01
+2025-12-01 10:22:08,943 - server - INFO - Successfully fetched 1 expense(s) for date: 2025-01-01
+2025-12-01 10:22:50,898 - server - INFO - Fetching expenses for date: 2024-08-08
+2025-12-01 10:22:50,909 - server - WARNING - No expenses found for date: 2024-08-08
+2025-12-01 10:22:54,150 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 10:22:54,160 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-12-01 10:23:50,814 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 10:23:50,825 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-12-01 10:23:58,728 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 10:23:58,739 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 10:24:01,187 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 10:24:01,196 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-12-01 10:25:35,551 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 10:25:35,560 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-12-01 10:25:58,717 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 10:25:58,726 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-12-01 10:26:02,171 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 10:26:02,181 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-12-01 10:26:07,148 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 10:26:07,156 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-12-01 10:26:11,462 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 10:26:11,471 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 10:26:56,700 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 10:26:56,710 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 10:26:59,705 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 10:26:59,713 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 10:27:02,432 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 10:27:02,441 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 10:27:05,227 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 10:27:05,237 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 10:27:09,789 - server - INFO - Fetching expenses for date: 2024-08-09
+2025-12-01 10:27:09,799 - server - WARNING - No expenses found for date: 2024-08-09
+2025-12-01 10:27:12,345 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:27:12,357 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:27:21,630 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:27:21,641 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:27:26,056 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:27:26,067 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:27:43,421 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:27:43,433 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:27:44,515 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:27:44,525 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:27:52,150 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:27:52,160 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:28:02,783 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:28:02,792 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:28:09,363 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:28:09,373 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:30:52,173 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:30:52,184 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:31:23,221 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:31:23,231 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:31:27,023 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:31:27,032 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:31:44,262 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:31:44,271 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:31:46,808 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:31:46,817 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:31:49,683 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:31:49,694 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:31:55,821 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:31:55,832 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:32:49,037 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:32:49,047 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:32:56,026 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:32:56,037 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:32:57,759 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:32:57,769 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:33:05,181 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:33:05,191 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:33:06,777 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:33:06,786 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:33:30,367 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:33:30,376 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:33:35,695 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 10:33:35,706 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 10:34:04,507 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 10:34:04,514 - server - WARNING - No expenses found for date: 2025-01-02
+2025-12-01 10:34:42,833 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 10:34:42,844 - server - WARNING - No expenses found for date: 2025-01-02
+2025-12-01 10:34:42,864 - server - INFO - Adding 2 expense(s) for date: 2025-01-02
+2025-12-01 10:34:42,934 - server - INFO - Successfully added 2 expense(s) for date: 2025-01-02
+2025-12-01 10:34:51,507 - server - INFO - Fetching expenses for date: 2025-01-04
+2025-12-01 10:34:51,517 - server - WARNING - No expenses found for date: 2025-01-04
+2025-12-01 10:34:54,308 - server - INFO - Fetching expenses for date: 2025-01-03
+2025-12-01 10:34:54,316 - server - WARNING - No expenses found for date: 2025-01-03
+2025-12-01 10:34:56,672 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 10:34:56,681 - server - INFO - Successfully fetched 2 expense(s) for date: 2025-01-02
+2025-12-01 10:40:41,012 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:40:41,042 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:40:45,244 - server - INFO - Fetching expenses for date: 2024-01-02
+2025-12-01 10:40:45,258 - server - WARNING - No expenses found for date: 2024-01-02
+2025-12-01 10:40:48,432 - server - INFO - Fetching expenses for date: 2024-01-03
+2025-12-01 10:40:48,443 - server - WARNING - No expenses found for date: 2024-01-03
+2025-12-01 10:40:52,096 - server - INFO - Fetching expenses for date: 2024-01-04
+2025-12-01 10:40:52,108 - server - WARNING - No expenses found for date: 2024-01-04
+2025-12-01 10:40:55,372 - server - INFO - Fetching expenses for date: 2024-01-05
+2025-12-01 10:40:55,382 - server - WARNING - No expenses found for date: 2024-01-05
+2025-12-01 10:41:02,911 - server - INFO - Fetching expenses for date: 2025-01-01
+2025-12-01 10:41:02,921 - server - WARNING - No expenses found for date: 2025-01-01
+2025-12-01 10:41:05,246 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 10:41:05,258 - server - INFO - Successfully fetched 2 expense(s) for date: 2025-01-02
+2025-12-01 10:41:59,146 - server - INFO - Fetching expenses for date: 2025-01-01
+2025-12-01 10:41:59,158 - server - WARNING - No expenses found for date: 2025-01-01
+2025-12-01 10:42:02,135 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 10:42:02,146 - server - INFO - Successfully fetched 2 expense(s) for date: 2025-01-02
+2025-12-01 10:52:52,491 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 10:52:52,517 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 10:54:19,203 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 10:54:19,226 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 10:56:46,692 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 10:56:46,701 - server - INFO - Successfully fetched 2 expense(s) for date: 2025-01-02
+2025-12-01 10:56:46,716 - server - INFO - Adding 2 expense(s) for date: 2025-01-02
+2025-12-01 10:56:46,749 - server - INFO - Successfully added 2 expense(s) for date: 2025-01-02
+2025-12-01 10:56:54,903 - server - INFO - Fetching expenses for date: 2025-01-01
+2025-12-01 10:56:54,912 - server - WARNING - No expenses found for date: 2025-01-01
+2025-12-01 10:56:57,244 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 10:56:57,253 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:03:40,719 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:03:40,729 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:03:45,311 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:03:45,319 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:03:50,885 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:03:50,894 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:03:51,999 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:03:52,008 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:03:57,831 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:03:57,839 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:03:59,121 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:03:59,130 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:04:00,631 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:04:00,640 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:04:12,636 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:04:12,645 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:04:15,534 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:04:15,542 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:04:19,235 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:04:19,243 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:05:08,213 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:05:08,221 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:05:19,543 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:05:19,551 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:05:21,871 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:05:21,879 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:05:23,382 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:05:23,391 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:05:27,127 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:05:27,136 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:05:29,071 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:05:29,080 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:05:32,733 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:05:32,742 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:05:35,666 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:05:35,675 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:05:39,879 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:05:39,887 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:05:41,274 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:05:41,282 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:06:21,046 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:06:21,054 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:09:19,169 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:09:19,186 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:09:24,137 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:09:24,145 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:09:27,882 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:09:27,890 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:09:28,998 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:09:29,006 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:09:35,406 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:09:35,414 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:09:36,675 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:09:36,684 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:12:00,010 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:12:00,017 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:12:28,025 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:12:28,033 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:12:59,470 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:12:59,478 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:13:04,232 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:13:04,240 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:13:08,058 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:13:08,067 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:13:11,359 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:13:11,367 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:13:17,077 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:13:17,086 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:13:44,836 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:13:44,843 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:13:49,072 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:13:49,080 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:13:56,527 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:13:56,537 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:14:11,593 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:14:11,601 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:14:21,633 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:14:21,643 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:14:32,526 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:14:32,534 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:14:35,169 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:14:35,176 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:15:04,835 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:15:04,843 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:15:09,347 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:15:09,354 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:15:12,327 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:15:12,337 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:15:20,545 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:15:20,553 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:15:24,021 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:15:24,031 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:19:16,199 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 11:19:16,220 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 11:19:40,193 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:19:40,201 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:19:49,087 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:19:49,097 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:20:05,302 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:20:05,311 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:20:16,049 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:20:16,056 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:20:18,100 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:20:18,108 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:20:19,433 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:20:19,441 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:20:20,516 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:20:20,526 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:20:23,202 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:20:23,209 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:20:39,333 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:20:39,343 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:20:39,360 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 11:20:39,369 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 11:21:31,286 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:21:31,295 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:22:12,331 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:22:12,340 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:22:14,063 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:22:14,072 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:22:19,727 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:22:19,734 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:22:22,830 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:22:22,839 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:22:47,360 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:22:47,367 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:29:14,768 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:29:14,777 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:29:18,991 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:29:18,999 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:29:21,761 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:29:21,769 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:29:23,007 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:29:23,015 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:29:26,989 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:29:26,998 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:29:39,784 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:29:39,791 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:29:42,044 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:29:42,052 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:29:46,712 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:29:46,720 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:29:49,350 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:29:49,359 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:29:54,865 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:29:54,872 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:30:02,782 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:30:02,791 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:30:07,624 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:30:07,633 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:30:07,649 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 11:30:07,658 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 11:30:29,426 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:30:29,435 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:30:32,721 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:30:32,729 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:30:38,731 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:30:38,740 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:30:38,757 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 11:30:38,766 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 11:31:22,283 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:31:22,290 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:31:29,103 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:31:29,112 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:31:29,130 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 11:31:29,141 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 11:35:16,400 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:35:16,408 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:35:22,602 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:35:22,610 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:35:31,366 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:35:31,378 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:35:31,395 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 11:35:31,404 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 11:36:20,766 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:36:20,773 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:36:29,703 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:36:29,710 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:36:31,580 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:36:31,589 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 11:36:31,605 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 11:36:31,619 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 11:36:55,914 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 11:36:55,923 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:02:28,866 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:02:28,893 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:02:28,915 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:02:28,926 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:03:24,982 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:03:25,006 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:03:55,725 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:03:55,736 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:03:57,099 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:03:57,108 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:04:33,763 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:04:33,783 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:04:35,165 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:04:35,174 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:04:40,277 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:04:40,288 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:04:43,709 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:04:43,719 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:04:43,738 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:04:43,780 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:06:10,496 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:06:10,505 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:06:12,895 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:06:12,904 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:06:15,133 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:06:15,144 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:06:16,319 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:06:16,328 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:06:22,134 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:06:22,144 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:06:30,704 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:06:30,715 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:06:33,565 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:06:33,574 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:06:36,331 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:06:36,340 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:06:37,804 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:06:37,813 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:06:39,210 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:06:39,220 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:06:51,900 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:06:51,910 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:06:54,454 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:06:54,464 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:07:23,753 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:07:23,765 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:07:23,785 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:07:23,794 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:08:05,078 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:08:05,088 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:08:06,531 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:08:06,542 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:08:08,038 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:08:08,048 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:08:15,313 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:08:15,323 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:08:18,249 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:08:18,259 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:08:18,279 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:08:18,287 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:08:26,137 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:08:26,146 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:08:29,218 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:08:29,227 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:08:34,318 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:08:34,328 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:08:34,349 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:08:34,359 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:09:22,854 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:09:22,864 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:09:26,165 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:09:26,175 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:09:30,029 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:09:30,040 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:09:30,063 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:09:30,075 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:10:14,718 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:10:14,727 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:10:23,890 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:10:23,898 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:10:25,282 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:10:25,292 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:10:27,060 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:10:27,069 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:10:34,816 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:10:34,825 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:10:36,399 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:10:36,409 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:10:37,467 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:10:37,476 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:10:41,850 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:10:41,860 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:10:49,509 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:10:49,521 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:10:49,539 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:10:49,554 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:11:06,202 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:11:06,212 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:11:14,333 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:11:14,342 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:11:38,539 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:11:38,549 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:11:39,986 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:11:39,996 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:11:43,811 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:11:43,821 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:11:45,223 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:11:45,233 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:11:47,109 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:11:47,118 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:11:50,937 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:11:50,946 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:11:54,139 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:11:54,148 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:11:59,797 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:11:59,806 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:12:00,935 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:12:00,945 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:12:05,826 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:12:05,837 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:12:05,856 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:12:05,867 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:12:41,561 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:12:41,571 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:12:43,748 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:12:43,759 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:12:57,142 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:12:57,151 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:12:59,866 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:12:59,876 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:12:59,895 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:12:59,904 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:14:10,687 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:14:10,697 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:14:17,801 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:14:17,810 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:14:26,391 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:14:26,403 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:14:27,801 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:14:27,810 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:14:41,769 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:14:41,779 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:14:55,025 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:14:55,035 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:15:07,631 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:15:07,638 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:15:36,055 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:15:36,065 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:15:42,743 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:15:42,753 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:15:47,828 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:15:47,836 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:15:47,855 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:15:47,864 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:16:44,285 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:16:44,295 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:16:47,016 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:16:47,026 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:16:48,503 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:16:48,512 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:16:53,681 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:16:53,691 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:17:00,889 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:17:00,899 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:17:04,342 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:17:04,351 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:17:20,151 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:17:20,160 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:17:21,553 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:17:21,563 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:17:34,479 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:17:34,489 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:17:39,270 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:17:39,280 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:17:42,442 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:17:42,452 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:17:42,473 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:17:42,482 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:17:58,600 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:17:58,612 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:18:01,581 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:18:01,591 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:18:01,612 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:18:01,625 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:18:29,918 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:18:29,929 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:18:33,954 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:18:33,964 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:18:33,985 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:18:33,999 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:18:43,222 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:18:43,233 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:18:44,981 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:18:44,992 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:18:46,370 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:18:46,381 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:18:50,001 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:18:50,010 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:18:52,512 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:18:52,523 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:18:54,923 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:18:54,932 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:18:54,953 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:18:54,963 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:19:08,600 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:19:08,609 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:19:11,062 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:19:11,073 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:19:13,220 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:19:13,233 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:19:13,254 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:19:13,264 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:19:23,897 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:19:23,909 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:19:27,258 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:19:27,267 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:19:27,289 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:19:27,301 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:19:43,397 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:19:43,408 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:19:48,085 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:19:48,096 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:19:56,790 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:19:56,801 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:20:00,630 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:20:00,642 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:20:00,663 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:20:00,676 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:20:12,640 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:20:12,651 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:20:32,934 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:20:32,944 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:20:37,543 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:20:37,553 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:20:39,203 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:20:39,212 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:20:42,317 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:20:42,327 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:20:44,917 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:20:44,927 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:20:51,903 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:20:51,912 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:20:54,669 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:20:54,679 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:20:58,235 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:20:58,244 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:20:58,264 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:20:58,274 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:21:14,649 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:21:14,658 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:21:19,008 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:21:19,018 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:21:19,039 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:21:19,050 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:21:34,647 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:21:34,657 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:21:37,685 - server - INFO - Fetching expenses for date: 2025-01-02
+2025-12-01 12:21:37,694 - server - INFO - Successfully fetched 4 expense(s) for date: 2025-01-02
+2025-12-01 12:21:37,714 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:21:37,724 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:23:21,989 - server - INFO - Fetching expenses for date: 2024-08-06
+2025-12-01 12:23:21,999 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-06
+2025-12-01 12:23:28,575 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 12:23:28,586 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-12-01 12:23:29,488 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 12:23:29,497 - server - INFO - Successfully fetched 4 expense(s) for date: 2024-08-01
+2025-12-01 12:23:29,514 - server - INFO - Adding 4 expense(s) for date: 2024-08-01
+2025-12-01 12:23:29,618 - server - INFO - Successfully added 4 expense(s) for date: 2024-08-01
+2025-12-01 12:23:35,615 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 12:23:35,624 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 12:23:39,250 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 12:23:39,259 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 12:23:43,105 - server - INFO - Fetching expenses for date: 2024-08-04
+2025-12-01 12:23:43,115 - server - INFO - Successfully fetched 3 expense(s) for date: 2024-08-04
+2025-12-01 12:23:46,073 - server - INFO - Fetching expenses for date: 2024-08-07
+2025-12-01 12:23:46,083 - server - WARNING - No expenses found for date: 2024-08-07
+2025-12-01 12:23:49,401 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 12:23:49,412 - server - INFO - Successfully fetched 8 expense(s) for date: 2024-08-01
+2025-12-01 12:23:51,839 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 12:23:51,850 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 12:23:54,811 - server - INFO - Fetching expenses for date: 2024-08-03
+2025-12-01 12:23:54,820 - server - INFO - Successfully fetched 5 expense(s) for date: 2024-08-03
+2025-12-01 12:23:58,312 - server - INFO - Fetching expenses for date: 2024-08-04
+2025-12-01 12:23:58,323 - server - INFO - Successfully fetched 3 expense(s) for date: 2024-08-04
+2025-12-01 12:25:20,603 - server - INFO - Fetching expenses for date: 2024-08-04
+2025-12-01 12:25:20,614 - server - INFO - Successfully fetched 3 expense(s) for date: 2024-08-04
+2025-12-01 12:25:20,635 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:25:20,647 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:28:35,210 - server - INFO - Fetching expenses for date: 2024-08-04
+2025-12-01 12:28:35,220 - server - INFO - Successfully fetched 3 expense(s) for date: 2024-08-04
+2025-12-01 12:31:04,780 - server - INFO - Fetching expenses for date: 2024-08-04
+2025-12-01 12:31:04,790 - server - INFO - Successfully fetched 3 expense(s) for date: 2024-08-04
+2025-12-01 12:31:07,419 - server - INFO - Fetching expenses for date: 2024-08-04
+2025-12-01 12:31:07,430 - server - INFO - Successfully fetched 3 expense(s) for date: 2024-08-04
+2025-12-01 12:31:13,950 - server - INFO - Fetching expenses for date: 2024-08-04
+2025-12-01 12:31:13,962 - server - INFO - Successfully fetched 3 expense(s) for date: 2024-08-04
+2025-12-01 12:32:59,580 - server - INFO - Fetching expenses for date: 2024-08-04
+2025-12-01 12:32:59,591 - server - INFO - Successfully fetched 3 expense(s) for date: 2024-08-04
+2025-12-01 12:33:20,645 - server - INFO - Fetching expenses for date: 2024-08-04
+2025-12-01 12:33:20,655 - server - INFO - Successfully fetched 3 expense(s) for date: 2024-08-04
+2025-12-01 12:33:20,674 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:33:20,684 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:33:26,839 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 12:33:26,850 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 12:33:32,679 - server - INFO - Fetching expenses for date: 2024-01-01
+2025-12-01 12:33:32,691 - server - WARNING - No expenses found for date: 2024-01-01
+2025-12-01 12:33:32,713 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:33:32,723 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
+2025-12-01 12:33:47,265 - server - INFO - Fetching expenses for date: 2024-08-01
+2025-12-01 12:33:47,276 - server - INFO - Successfully fetched 8 expense(s) for date: 2024-08-01
+2025-12-01 12:33:54,385 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 12:33:54,396 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 12:34:03,373 - server - INFO - Fetching expenses for date: 2024-08-02
+2025-12-01 12:34:03,386 - server - INFO - Successfully fetched 6 expense(s) for date: 2024-08-02
+2025-12-01 12:34:03,408 - server - INFO - Fetching analytics from 2024-08-01 to 2024-08-12
+2025-12-01 12:34:03,418 - server - INFO - Successfully fetched analytics for date range: 2024-08-01 to 2024-08-12
