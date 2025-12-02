@@ -85,6 +85,20 @@ def fetch_expense_summary(start_date, end_date):
         logger.info("Successfully fetched summary")
         return expense_summary
     
+def fetch_monthly_expense_summary():
+    try:
+        with DatabaseConnection() as cursor:
+            cursor.execute("SELECT MONTH(expense_date) as Month, MONTHNAME(expense_date) as Month_name, SUM(amount) as Total FROM expenses GROUP BY month, month_name ORDER BY total DESC")
+            monthly_summary = cursor.fetchall()
+
+    except Exception as e:
+        logger.error(str(e))
+        raise
+
+    else:
+        logger.info("Successfully fetched monthly expense summary")
+
+        return monthly_summary
 
 
 
@@ -92,10 +106,12 @@ if __name__ == "__main__":
 
     # delete_expense_for_date("2025-01-01")
 
-    expenses = fetch_expense_for_date("2025-01-01")
-    for expense in expenses:
-        print(expense)
+    # expenses = fetch_expense_for_date("2025-01-01")
+    # for expense in expenses:
+    #     print(expense)
 
     # expenses = fetch_expense_summary("2024-08-01", "2024-08-15")
     # for expense in expenses:
     #     print(expense)
+
+    print(fetch_monthly_expense_summary())
