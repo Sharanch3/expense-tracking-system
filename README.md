@@ -12,6 +12,16 @@ A full-stack expense tracking application built with FastAPI, MySQL, and Streaml
 - **Data Persistence**: MySQL database for reliable data storage
 - **Logging**: Comprehensive logging for debugging and monitoring
 
+## Screenshots
+---
+![add/update tab](./img/add_update.png)
+
+---
+![analytics_tab](./img/analytics_category.png)
+
+---
+
+![analytics_monthly](./img/analytics_monthly.png)
 ## 🛠️ Tech Stack
 
 - **Backend**: FastAPI (Python)
